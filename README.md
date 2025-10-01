@@ -13,7 +13,7 @@ This Excel-based Sales Dashboard provides a clear and concise view of sales perf
 ---
 
 ## Dashboard Preview
-![Sales Dashboard](images/Excel dashboard.png)
+![Sales Dashboard](Excel dashboard.png)
 
 ---
 
